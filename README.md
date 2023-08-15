@@ -3,7 +3,7 @@
 ## API Link:
 
 - With API, we can test it on Postman Tool.
-  [Udagram API ](http://udagram-api-dev-env.eba-gxwziyuz.us-east-1.elasticbeanstalk.com/api/v0)
+  [Udagram API ](http://udagaram-api-env.eba-b2jj4wvk.us-east-1.elasticbeanstalk.com/api/v0)
 
 ## Hosting link
 
