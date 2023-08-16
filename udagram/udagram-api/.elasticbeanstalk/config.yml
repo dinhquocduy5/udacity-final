@@ -1,6 +1,6 @@
 branch-defaults:
   default:
-    environment: udagaram-api-env
+    environment: udagaram-api-2
     group_suffix: null
 global:
   application_name: udagaram-api
