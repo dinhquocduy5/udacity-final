@@ -1,9 +1,9 @@
 branch-defaults:
   default:
-    environment: udacity-api-env
+    environment: udagram-api-dev-env
     group_suffix: null
 global:
-  application_name: udacity-api
+  application_name: udagram-api-dev
   branch: null
   default_ec2_keyname: aws-eb
   default_platform: Node.js 16 running on 64bit Amazon Linux 2
