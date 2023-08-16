@@ -3,7 +3,7 @@
 ## API Link:
 
 - With API, we can test it on Postman Tool.
-  [Udagram API ](http://udagaram-api-env.eba-b2jj4wvk.us-east-1.elasticbeanstalk.com/api/v0)
+  [Udagram API ](http://udacity-api-env.eba-auzn6pay.us-east-1.elasticbeanstalk.com//api/v0)
 
 ## Hosting link
 
@@ -24,4 +24,4 @@
 
 ## CircleCI Badge
 
-[![CircleCI](https://app.circleci.com/pipelines/github/thanhvisuperman/udacity_final_project/36)(https://app.circleci.com/pipelines/github/thanhvisuperman/udacity_final_project/36/workflows/7834f063-c788-4c8e-82a0-a0e97016824d)
+[![CircleCI](https://app.circleci.com/pipelines/github/dinhquocduy5/udacity-final/11)(https://app.circleci.com/pipelines/github/dinhquocduy5/udacity-final/11/workflows/e06924a5-7cf6-48f7-9336-b6031b64d132)
