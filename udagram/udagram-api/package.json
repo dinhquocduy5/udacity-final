@@ -16,7 +16,7 @@
     "jasmine": "jasmine",
     "test": "npm-run-all tsc jasmine",
     "allin": "npm-run-all tsc start",
-    "deploy": "npm run build && eb list && eb use udagaram-api-2 && eb deploy"
+    "deploy": "npm run build && eb list && eb use udagram-api-last-env && eb deploy"
   },
   "keywords": [],
   "author": "Gabriel Ruttner",
